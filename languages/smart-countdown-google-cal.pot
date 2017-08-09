@@ -1,0 +1,193 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2015-05-26 08:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: smartcdeasyrecurrence.php:46
+msgid "Easy recurring"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:71 smartcdeasyrecurrence.php:82
+msgid "Smart Countdown FX Easy Recurring Events Settings"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:71
+msgid "Easy Recurring Events"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:102
+msgid "Settings"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:131
+msgid "Merge both configurations"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:182
+msgid "Configuration"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:185
+msgid "Title"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:188
+msgid ""
+"This title will appear in available event import profiles list in Smart "
+"Countdown FX configuration"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:192
+msgid "Recurrence pattern"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:196
+msgid "Disabled"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:197
+msgid "Daily"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:198
+msgid "Weekly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:199
+msgid "Monthly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:200
+msgid "Yearly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:208
+msgid "Date"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:211
+msgid "Month"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:214
+msgid "January"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:215
+msgid "February"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:216
+msgid "March"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:217
+msgid "April"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:218
+msgid "May"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:219
+msgid "June"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:220
+msgid "July"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:221
+msgid "August"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:222
+msgid "September"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:223
+msgid "October"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:224
+msgid "November"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:225
+msgid "December"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:231
+msgid "Day"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:242
+msgid "Week days"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:246
+msgid "Sunday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:247
+msgid "Monday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:248
+msgid "Tuesday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:249
+msgid "Wednesday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:250
+msgid "Thursday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:251
+msgid "Friday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:252
+msgid "Saturday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:258
+msgid "Time"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:260
+msgid "Hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:267
+msgid "Minutes"
+msgstr ""
+
+#~ msgid "Event text will go here for ID:"
+#~ msgstr "Traducción título del evento"
+
+#~ msgid "Event text will go here for ID: "
+#~ msgstr "Great translation for event text"
